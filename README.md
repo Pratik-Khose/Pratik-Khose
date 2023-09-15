@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Khose</h1>
-<h3 align="center">A passionate web developer with a keen knowledge in AWS and good cloud skills along with Devops and implementing CI/CD pipelines.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-khose&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-khose" /> </p>
+<h3 align="center">A passionate web developer along with a keen knowlege in AWS and good cloud skills along with Devops and implementing CI/CD pipelines.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik-khose" alt="pratik-khose" /></a> </p>
 
@@ -9,13 +7,22 @@
 
 - 🔭 I’m currently working on various [Python Projects](https://github.com/Pratik-Khose/GUIVI_PYTHON)
 
+- 🌱 I’m currently learning **AWS,DEVOPS and its concepts.**
+
+- 🤝 I’m currently working on various **Web Developement projects too**
+
 - 👨‍💻 All of my projects are available at [https://pratik-khose.netlify.app/](https://pratik-khose.netlify.app/)
+
+- 📫 How to reach me **pratikhose@gmail.com**
+
+- ⚡ Fun fact **The chance of dying on the way to get a lottery ticket are greater than actually winning a lotter ticket.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pratikkhose1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratikkhose1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratik-khose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-khose" height="30" width="40" /></a>
 <a href="https://instagram.com/im_pratikk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_pratikk_" height="30" width="40" /></a>
+<a href="https://medium.com/@pratik-khose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pratik-khose" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-khose&show_icons=true&locale=en&layout=compact" alt="pratik-khose" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-khose&show_icons=true&locale=en" alt="pratik-khose" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-khose&" alt="pratik-khose" /></p>
