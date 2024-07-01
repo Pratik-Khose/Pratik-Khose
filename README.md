@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there, I'm Pratik Khose 👋<br><br>A little more about me...<br><br>🔭 I'm a Frontend Developer, who crafts immersive and visually appealing user experiences.<br><br>🎓 I'm pursuing a B.Tech in Computer Science at the Government College of Engineering, Yavatmal.<br><br>🎨 As a web developer, I am deeply passionate about crafting digital experiences that blend creativity and functionality seamlessly. I find immense satisfaction in transforming ideas into visually appealing and user-friendly websites. My enthusiasm for staying updated with the latest web technologies and constantly refining my coding skills reflects my commitment to delivering high-quality solutions. I am dedicated to pushing the boundaries of what is possible in the ever-evolving digital landscape.<br><br>☁️ I'm also a cloud and DevOps enthusiast, with a solid understanding of web development.<br><br>💡 I'm a firm believer in lifelong learning. Each day presents an opportunity to acquire new skills and deepen my understanding of evolving technologies.<br><br>👨‍💻 All of my projects are available at <br><br>💬 Ask me about Cloud(AWS), Devops, Data Analytics<br><br>📫 How to reach me: pratikkhose13@gmail.com<br>
+💫 About Me:
+Hi there, I'm Pratik Khose 👋<br><br>A little more about me...<br><br>🔭 I'm a Cloud + Devops + Data Analyst + Frontend Developer, who crafts immersive and visually appealing user experiences and solutions.<br><br>🎓 I'm pursuing a B.Tech in Computer Science at the Government College of Engineering, Yavatmal.<br><br>🎨 As a student, I am deeply passionate about crafting digital experiences that blend creativity and functionality seamlessly. I find immense satisfaction in transforming ideas into visually appealing and user-friendly websites. My enthusiasm for staying updated with the latest web technologies and constantly refining my coding skills reflects my commitment to delivering high-quality solutions. I am dedicated to pushing the boundaries of what is possible in the ever-evolving digital landscape.<br><br>☁️ I'm also a cloud and DevOps enthusiast, with a solid understanding of web development.<br><br>💡 I'm a firm believer in lifelong learning. Each day presents an opportunity to acquire new skills and deepen my understanding of evolving technologies.<br><br>👨‍💻 All of my projects are available at <br><br>💬 Ask me about Cloud(AWS), Devops, Data Analytics<br><br>📫 How to reach me: pratikkhose13@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -18,10 +18,3 @@ Hi there, I'm Pratik Khose 👋<br><br>A little more about me...<br><br>🔭 I'm
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pratik-Khose&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Pratik-Khose&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
